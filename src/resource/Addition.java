@@ -11,6 +11,8 @@ public class Addition {
 		
 		System.out.print(b);
 		
+		System.out.println(a);
+		
 	}
 
 }
